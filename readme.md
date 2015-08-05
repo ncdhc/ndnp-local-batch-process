@@ -23,4 +23,4 @@ In-depth documentation can be found in the repository wiki (https://github.com/n
 
 
 
-This repository describes a convoluted process that’s very dependent on a specific environment and set of resources. This approach is presented here, as-is, in the hopes that might help inform the development of others.
+This repository describes a convoluted process that’s very dependent on a specific environment and set of resources. This approach is presented here, as-is, in the hopes that might help inform others' development efforts.
